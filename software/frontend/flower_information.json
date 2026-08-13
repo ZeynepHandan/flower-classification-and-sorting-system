@@ -1,0 +1,205 @@
+[
+    {
+        "cicek_adi": "Alstromerya",
+        "ideal_sicaklik": "15°C - 20°C (Dengeli/Ilıman)",
+        "isik_konum": "Bol aydınlık, yarı gölge (Öğle güneşinden koruyun)",
+        "sulama": "Üst toprak kurudukça nemli tutun; göllendirmeyin.",
+        "toprak_besin": "Zengin, humuslu, hafif asidik (pH 6.0-6.5).",
+        "budama": "Solan sapları dipten kesin, yaşlı yaprakları temizleyin."
+    },
+    {
+        "cicek_adi": "Anemon (Dağ Lalesi)",
+        "ideal_sicaklik": "Serin/Ilıman (Aşırı sıcakta uykuya geçer)",
+        "isik_konum": "Filtrelenmiş ışık, rüzgardan korunaklı yarı gölge",
+        "sulama": "Sürekli nemli tutun; yumru çürümesine karşı kontrollü olun.",
+        "toprak_besin": "Süzek, kumlu, humuslu ve gevşek geçirgen toprak.",
+        "budama": "Solan sapları kesin; yeşil yapraklar kuruyana kadar ellemeyin."
+    },
+    {
+        "cicek_adi": "Antoryum",
+        "ideal_sicaklik": "15°C - 25°C (Isı kaynaklarından uzak tutun)",
+        "isik_konum": "Parlak ama dolaylı ışık (Doğrudan güneşten kaçının)",
+        "sulama": "Üst 2-3 cm kurudukça sulayın; yapraklara su püskürtün.",
+        "toprak_besin": "Havadar, iyi drene edilmiş, organik maddece zengin.",
+        "budama": "Büyüme döneminde 2-3 haftada bir sıvı salon gübresi verin."
+    },
+    {
+        "cicek_adi": "Yıldızpatı",
+        "ideal_sicaklik": "10°C - 15°C (Çiçeklenme için serinlik sever)",
+        "isik_konum": "Tam güneş (Günde en az 6 saat doğrudan ışık)",
+        "sulama": "Toprak kurudukça; yazın her gün, kışın seyrek.",
+        "toprak_besin": "Besin yönünden zengin, humuslu, süzek toprak.",
+        "budama": "Temmuz'a kadar uç alma yapın; solan çiçekleri hemen kesin."
+    },
+    {
+        "cicek_adi": "Kala",
+        "ideal_sicaklik": "15°C - 24°C (10°C altı ve 24°C üstü riskli)",
+        "isik_konum": "Parlak, filtrelenmiş dolaylı ışık; yarı gölge",
+        "sulama": "Toprak yüzeyi kurudukça düzenli; nemli ama çamursuz.",
+        "toprak_besin": "Organik zengin, torflu ve süzek (Altı delikli saksı).",
+        "budama": "Yapraklar sararınca sulamayı kesin, kuruyanları temizleyin."
+    },
+    {
+        "cicek_adi": "Karanfil",
+        "ideal_sicaklik": "15°C - 22°C (0°C soğuğa kadar dayanıklıdır)",
+        "isik_konum": "Açık hava, hafif esintili ve güneşli ortamlar",
+        "sulama": "Toprak yüzeyi kurudukça; susuzluğa dayanıklıdır.",
+        "toprak_besin": "Geçirgen, kumlu-tınlı, hafif kireçli ve humuslu.",
+        "budama": "Solan çiçekleri sapıyla kesin; yeni tomurcuğu teşvik edin."
+    },
+    {
+        "cicek_adi": "Krizantem (Kasımpatı)",
+        "ideal_sicaklik": "10°C - 15°C (Serinde çiçek açar; kökü dona dayanıklı)",
+        "isik_konum": "Günde en az 5-6 saat doğrudan güneş ışığı",
+        "sulama": "Sürekli hafif nemli; yazın her gün sulama isteyebilir.",
+        "toprak_besin": "Zengin, humuslu, su tahliyesi iyi (süzek) toprak.",
+        "budama": "Dallanma için Temmuz'a kadar uç alma; solanları kesin."
+    },
+    {
+        "cicek_adi": "Nergis",
+        "ideal_sicaklik": "Serinlik sever (Çiçeklenme için 0-5°C kış soğuğu şart)",
+        "isik_konum": "Günde 4-6 saat güneş; serin ve hava akımlı pencere önü",
+        "sulama": "Düzenli sulama; yapraklar sararınca tamamen kesin.",
+        "toprak_besin": "Çok iyi drene edilmiş, kumlu ve gevşek toprak.",
+        "budama": "Çiçek solsa da yaprakları kesmeyin; kendiliğinden kurumalıdır."
+    },
+    {
+        "cicek_adi": "Papatya",
+        "ideal_sicaklik": "15°C - 22°C (Sıcağa ve kuraklığa oldukça dirençli)",
+        "isik_konum": "Tam güneş (En az 6 saat doğrudan ışık)",
+        "sulama": "Toprak kurudukça; olgunlaştığında susuzluğa dayanır.",
+        "toprak_besin": "Süzek, gevşek ve besin yönünden zengin toprak.",
+        "budama": "Solan kafaları sapıyla kesin; tohum yerine çiçeklenmeyi artırın."
+    },
+    {
+        "cicek_adi": "Okaliptus",
+        "ideal_sicaklik": "18°C - 24°C (Gençken dona karşı hassas)",
+        "isik_konum": "Günde 6-8 saat doğrudan güneş ışığı (Tam güneş)",
+        "sulama": "Üst 2-3 cm kurur kurumaz sulayın; toprak nemli kalmalı.",
+        "toprak_besin": "Suyu tutmayan, kumlu, hafif asidik ve çok süzek.",
+        "budama": "Baharın düzenli budama ile kompakt/çalı formu verin."
+    },
+    {
+        "cicek_adi": "Frezya",
+        "ideal_sicaklik": "Serin, havadar ve hafif rüzgarlı ortamlar",
+        "isik_konum": "Günde 4-6 saat bol ışık; filtrelenmiş/yarı gölge",
+        "sulama": "Yüzey hafif kuruyunca sulayın; sürekli nemli ama çamursuz.",
+        "toprak_besin": "Su geçirgenliği yüksek, kumlu-torflu, nötr pH.",
+        "budama": "Biten sapları dipten kesin; yaprakları ellemeden kurutun."
+    },
+    {
+        "cicek_adi": "Gerbera",
+        "ideal_sicaklik": "Gündüz 18-24°C / Gece 12-15°C (Ilıman)",
+        "isik_konum": "Sabah güneşi; yazın filtrelenmiş parlak ışık",
+        "sulama": "Toprak kurudukça derinlemesine; saksı altından su çıkmalı.",
+        "toprak_besin": "Ponza ve perlit destekli, süzek, hafif asidik.",
+        "budama": "Solanları sapın en altından esneterek veya makasla alın."
+    },
+    {
+        "cicek_adi": "Glayöl",
+        "ideal_sicaklik": "20°C - 25°C (Sıcak iklim/Yaz bitkisi)",
+        "isik_konum": "Dik saplar için günde 5-6 saat tam güneş ışığı",
+        "sulama": "Can suyundan sonra toprak her zaman eşit nemli olmalı.",
+        "toprak_besin": "Organik zengin, süzek, kilsiz, nötr/asidik (pH 6-7).",
+        "budama": "Alttan yukarı açan çiçeklerden solanları düzenli koparın."
+    },
+    {
+        "cicek_adi": "Sümbül",
+        "ideal_sicaklik": "15°C civarı (20°C üstü çiçek ömrünü kısaltır)",
+        "isik_konum": "Aydınlık veya yarı gölge (Doğrudan güneşten kaçının)",
+        "sulama": "Parmak kontrolü ile toprak kurumaya başladıkça su verin.",
+        "toprak_besin": "Kök çürümemesi için humuslu ve hafif kumlu süzek toprak.",
+        "budama": "Çiçekler solunca sapı dipten kesin; soğan enerjisini korusun."
+    },
+    {
+        "cicek_adi": "Protea",
+        "ideal_sicaklik": "18°C - 28°C (Kurak/Akdeniz iklimi; dona hassas)",
+        "isik_konum": "Tam açık, havadar ve gün boyu kesintisiz güneş",
+        "sulama": "Olgunlaştığında çok az su ister; yazın seyrek/derin sulama.",
+        "toprak_besin": "Fakir, asidik, kumlu/taşlı toprak. (Asla fosforlu gübre vermeyin!)",
+        "budama": "Çiçeklenme sonrası sapın 1/3'ünü kesin; merkezi havalandırın."
+    },
+    {
+        "cicek_adi": "Düğün Çiçeği",
+        "ideal_sicaklik": "Gündüz 12°C-18°C / Gece 7°C-10°C (Serin ilkbahar sever)",
+        "isik_konum": "Günde 4-6 saat parlak ışık; sıcak dönemde filtre yarı gölge",
+        "sulama": "İlk sürgüne kadar kısıtlı; çiçeklenmede düzenli, süzek nemli.",
+        "toprak_besin": "Geçirgen, torf ve kum karışımlı süzek; 2 haftada bir potasyum.",
+        "budama": "Solanları dipten kesin; yazın yapraklar sararınca budayıp dinlendirin."
+    },
+    {
+        "cicek_adi": "Gül",
+        "ideal_sicaklik": "15°C - 25°C (Ilıman sever, kış donlarına oldukça dayanıklıdır)",
+        "isik_konum": "Günde en az 6 saat doğrudan güneş (Gölgede külleme riski yüksek)",
+        "sulama": "Sık az yerine kurudukça derinlemesine; sabah doğrudan toprağa.",
+        "toprak_besin": "Zengin, humuslu, hafif asidik/nötr; yaz sonuna kadar aylık Mg ve P.",
+        "budama": "Kış sonu uykuda ana budama; yazın solanları 5'li yaprak üstünden kesin."
+    },
+    {
+        "cicek_adi": "Sardunya",
+        "ideal_sicaklik": "15°C - 24°C (Dayanıklıdır; 5°C altında donma riski bulunur)",
+        "isik_konum": "Gün boyu bol doğrudan güneş veya çok parlak güney/batı cephe",
+        "sulama": "Toprak tamamen kurumadan sulamayın; saksı tabağındaki suyu dökün.",
+        "toprak_besin": "Perlitli, geçirgen bahçe toprağı ve torf; aktif dönemde ayda iki sıvı gübre.",
+        "budama": "Solan sapları el/makasla dipten alın; kış sonunda dalların ucunu budayın."
+    },
+    {
+        "cicek_adi": "Deniz Lavantası",
+        "ideal_sicaklik": "18°C - 26°C (Sahil iklimine, rüzgara, tuza ve hafif dona dirençli)",
+        "isik_konum": "Tam güneş alan, açık ve havadar konum (Gölgede saplar eğilir)",
+        "sulama": "Kök saldıktan sonra yüksek kuraklık toleransı; kışın sulamayın.",
+        "toprak_besin": "Fakir, kumlu, çakıllı, yüksek drenajlı ve hafif alkali. (Gübrelemeyin!)",
+        "budama": "Çiçeklenme bitince uzun sapları tabandan kesin; baharda yaşlı yaprakları ayıklayın."
+    },
+    {
+        "cicek_adi": "Ayçiçeği",
+        "ideal_sicaklik": "20°C - 28°C (Yaz sıcaklarına dirençli tek yıllık; dona hassas)",
+        "isik_konum": "Günde en az 6-8 saat kesintisiz doğrudan güneş; tam açık alan",
+        "sulama": "Hızlı büyüme ve baş döneminde bol su; derin nemli (çamursuz).",
+        "toprak_besin": "Derin, gevşek, iyi drene ve çok zengin toprak; büyümede N ve P desteği.",
+        "budama": "Geleneksel türde budama gerekmez; dallanan süs türünde solan yanları kesin."
+    },
+    {
+        "cicek_adi": "Lale",
+        "ideal_sicaklik": "12°C - 16°C (Kış soğuğu şarttır; sıcaklık çiçek ömrünü kısaltır)",
+        "isik_konum": "Sabah güneşi alan aydınlık/yarı gölge; yakıcı öğle güneşinden koruyun",
+        "sulama": "Sonbahar/kış yağışları yeterli; baharda yaprak çıkınca topraktan düzenli.",
+        "toprak_besin": "Süzek, hafif kumlu, tınlı, nötr/asidik; yaprak döneminde hafif kompost.",
+        "budama": "Çiçek solunca sapı üstten kesin; yeşil yaprakları sararana kadar ellemeyin."
+    },
+    {
+        "cicek_adi": "Zinya",
+        "ideal_sicaklik": "21°C - 28°C (Yüksek sıcaklık ve kuraklığa dayanıklı; dona hassas)",
+        "isik_konum": "Gün boyu kesintisiz doğrudan güneş; bol ışıklı bahçe veya balkon",
+        "sulama": "Üst yüzey kurudukça kök bölgesine düzenli; küllemeden korumak için yaprakları ıslatmayın.",
+        "toprak_besin": "Drenajı iyi, zengin, hafif asidik/nötr (pH 5.5-7.5); 3-4 haftada bir dengeli sıvı gübre.",
+        "budama": "Gençken dallanma için uç alma; yaz boyu hızlı tomurcuk için solan başları kesin."
+    },
+    {
+        "cicek_adi": "Manolya",
+        "ideal_sicaklik": "",
+        "isik_konum": "",
+        "sulama": "",
+        "toprak_besin": "",
+        "budama": "",
+        "_ilk_gorulme": "2026-06-05 11:40"
+    },
+    {
+        "cicek_adi": "Krizantem(kasımpatı)",
+        "ideal_sicaklik": "",
+        "isik_konum": "",
+        "sulama": "",
+        "toprak_besin": "",
+        "budama": "",
+        "_ilk_gorulme": "2026-06-05 13:45"
+    },
+    {
+        "cicek_adi": "Şebboy",
+        "ideal_sicaklik": "",
+        "isik_konum": "",
+        "sulama": "",
+        "toprak_besin": "",
+        "budama": "",
+        "_ilk_gorulme": "2026-06-05 14:23"
+    }
+]
