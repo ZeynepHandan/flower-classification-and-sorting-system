@@ -17,7 +17,7 @@ Bu proje, konveyör bant üzerinden geçen çiçeklerin otonom olarak görüntü
 CustomTkinter ile geliştirilen masaüstü arayüzü; ESP32-CAM'dan alınan görüntüyü, tespit edilen çiçek türünü, işlem süresini, güven skorunu ve istatistiksel raporları gösterir.
 
 <p align="center">
-  <img src="docs/gui_interface.png" width="650">
+  <img src="docs/gui_interface.png" width="550">
 </p>
 
 #### Donanım ve Konveyör Düzeneği
@@ -30,8 +30,8 @@ CustomTkinter ile geliştirilen masaüstü arayüzü; ESP32-CAM'dan alınan gör
       <td align="center"><b>Sistem Entegrasyonu</b></td>
     </tr>
     <tr>
-      <td><img src="docs/system_overview.jpeg" width="260"></td>
-      <td><img src="docs/hardware_circuits.jpeg" width="260"></td>
+      <td><img src="docs/system_overview.jpeg" width="220"></td>
+      <td><img src="docs/hardware_circuits.jpeg" width="220"></td>
       <td><img src="docs/system_and_hardware_entegration.jpeg" width="260"></td>
     </tr>
   </table>
