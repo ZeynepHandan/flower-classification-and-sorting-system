@@ -12,14 +12,30 @@ Bu proje, konveyör bant üzerinden geçen çiçeklerin otonom olarak görüntü
 
 ## Sistem Görselleri ve Operatör Arayüzü
 
-####Operatör Kontrol Paneli (GUI)
+#### Operatör Kontrol Paneli (GUI)
+
 CustomTkinter ile geliştirilen masaüstü arayüzü; ESP32-CAM'dan alınan görüntüyü, tespit edilen çiçek türünü, işlem süresini, güven skorunu ve istatistiksel raporları gösterir.
 
-![ARAYÜZ](docs/gui_interface.png)
+<p align="center">
+  <img src="docs/gui_interface.png" width="650">
+</p>
 
 #### Donanım ve Konveyör Düzeneği
 
-|![Sistem Görünümü](docs/system_overview.jpeg) | ![Devre Bağlantıları](docs/hardware_circuits.jpeg) | ![Sistem Görünümü](docs/system_and_hardware_entegration.jpeg) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Sistem Görünümü</b></td>
+      <td align="center"><b>Devre Bağlantıları</b></td>
+      <td align="center"><b>Sistem Entegrasyonu</b></td>
+    </tr>
+    <tr>
+      <td><img src="docs/system_overview.jpeg" width="260"></td>
+      <td><img src="docs/hardware_circuits.jpeg" width="260"></td>
+      <td><img src="docs/system_and_hardware_entegration.jpeg" width="260"></td>
+    </tr>
+  </table>
+</div>
 
 ### Detaylı Çalışma ve Olay Akışı (Workflow)
 
@@ -67,31 +83,6 @@ Model, eğitim aşamasında yüksek doğruluk oranlarına ulaşmış olsa da can
 1. **Ortam Aydınlatması ve Parlama:** Sabit ortam ışığının yetersizliği ve yapraklar üzerindeki parlama/gölgeler öznitelik çıkarımını olumsuz etkilemektedir.
 2. **Kamera Çözünürlüğü ve Odaklanma:** ESP32-CAM (OV2640) modülünün lens kısıtları ve anlık odaklanma süreleri netlik kaybına yol açabilmektedir.
 3. **Açı ve Konum Farklılıkları:** Konveyör bant üzerinde çiçeğin duruş açısı, modelin eğitim veri setindeki standart açılardan farklılık gösterebilmektedir.
-
----
-
-###PROJE KLASÖR YAPISI
-
-flower-counting-and-classification/
-├── software/
-│   ├── backend/          # Flask REST API, SQLite Veritabanı Mantığı
-│   │   ├── server.py
-│   │   ├── final\_model.h5
-│   │   └── requirements.txt
-│   ├── frontend/         # CustomTkinter Masaüstü Arayüzü
-│   │   ├── gui.py
-│   │   ├── flower\_information.json
-│   │   └── requirements.txt
-│   └── ai\_model/         # Model Eğitim Defteri (Jupyter Notebook)
-│       └── final-CNN-model.ipynb
-├── hardware/
-│   └── esp32/            # ESP32-CAM PlatformIO C++ Kodları
-│       ├── platformio.ini
-│       └── src/
-│           └── main.cpp
-├── docs/                 # Ekran Görüntüleri ve Sistem Görselleri
-└── README.md             # Proje Dokümantasyonu
-
 
 ---
 
@@ -204,32 +195,6 @@ Ambient Lighting & Reflections: Inconsistent ambient light and glare/shadows on 
 Camera Sensor Limits: Hardware limitations of the ESP32-CAM (OV2640) lens and focal delay can cause slight motion blur or noise.
 
 Pose & Angle Variations: Variations in flower orientation on the moving belt compared to normalized training datasets.
-
----
-
-###PROJECT DIRECTORY STRUCTURE
-
-flower-classification-and-sorting-system/
-
-├── software/
-│   ├── backend/          # Flask REST API, SQLite Database Logic
-│   │   ├── server.py
-│   │   ├── final\_model.h5
-│   │   └── requirements.txt
-│   ├── frontend/         # CustomTkinter Desktop Application
-│   │   ├── gui.py
-│   │   ├── flower\_information.json
-│   │   └── requirements.txt
-│   └── ai\_model/         # Model Training Notebook
-│       └── final-CNN-model.ipynb
-├── hardware/
-│   └── esp32/            # ESP32-CAM PlatformIO C++ Source Code
-│       ├── platformio.ini
-│       └── src/
-│           └── main.cpp
-├── docs/                 # Screenshots and Project Visuals
-└── README.md             # Project Documentation
-
 
 ---
 
